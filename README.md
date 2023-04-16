@@ -1,3 +1,4 @@
+
 # Nanhua University | Department of Computer Science and Information
 *人工智慧創意應用期中報告
 *10924229許書豪10924225許建昇
@@ -23,9 +24,9 @@
      text,error,missing fingers,missing arms,missing legs,extra digit, extra arms, 
      extra leg, extra foot,
 
-# 進行作業
 
-#參考資料
+
+# 參考資料
 *https://www.kocpc.com.tw/archives/482754
 *https://github.com/camenduru/stable-diffusion-webui-colab
 *https://youtu.be/LABwW9gx7C0
