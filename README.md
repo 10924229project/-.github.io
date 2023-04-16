@@ -6,7 +6,7 @@
 # Process
 * 準備一個可以打開google colab 的賬號
 * 請使用我提供的COLAB來進行作業
-* 執行以下程式碼，等待約3分鐘直到執行完畢(Play圖示持續轉圈圈)，直到出現以下3行連結。
+* 執行以下程式碼，等待約3-5分鐘直到執行完畢(Play圖示持續轉圈圈)，直到出現以下3行連結.
 
    * Running on local URL:  http://127.0.0.1:7860
    * Running on public URL: https://714c2d768e48b34f.gradio.app
