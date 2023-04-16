@@ -12,7 +12,7 @@
    * Running on public URL: https://714c2d768e48b34f.gradio.app
    * Public WebUI Colab URL: https://had-injuries-forests-necessity.trycloudflare.com
 
-* 點選第2個 Public URL，會開啟新分頁，接著在新分頁操作。
+* 點選第2個"Running on public URL: https://714c2d768e48b34f.gradio.app"，會開啟新分頁，接著在新分頁操作。
 * 在新分頁操作,在Text2Img的兩個對話框，可以輸入以下兩個正向、負向語詞 Prompt
 * 等待圖片生成
 
