@@ -1,15 +1,17 @@
-
 # Nanhua University | Department of Computer Science and Information
 *人工智慧創意應用期中報告
 *10924229許書豪10924225許建昇
 
-# 流程
+# Process
 * 準備一個可以打開google colab 的賬號
 * 請使用我提供的COLAB來進行作業
 * 執行以下程式碼，等待約3分鐘直到執行完畢(Play圖示持續轉圈圈)，直到出現以下3行連結。
 * 點選第2個 Public URL，會開啟新分頁，接著在新分頁操作。
 * 在新分頁操作,在Text2Img的兩個對話框，可以輸入以下兩個正向、負向語詞 Prompt
 
+
+
+                                          範例
 正向:8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), 
      ultra-detailed, (Kpop idol),perfect detail ,  looking at viewer,make up,
 負向:paintings,sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, 
@@ -26,7 +28,7 @@
 
 
 
-# 參考資料
+# Reference
 *https://www.kocpc.com.tw/archives/482754
 *https://github.com/camenduru/stable-diffusion-webui-colab
 *https://youtu.be/LABwW9gx7C0
